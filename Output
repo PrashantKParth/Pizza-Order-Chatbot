@@ -1,36 +1,51 @@
-Welcome to Customer Service Chatbot
+#OUTPUT Screen
+
+
+
+
+!!     Welcome to Customer Service Chatbot     !!
 Hi there! What type of cuisine are you in the mood for today?
+
 You:- i want pizza
-Bot:-  
- Today we have a special #deal# for you.
 
+Bot:-  Today we have a special #deal# for you.
 
- You can get two large pizzas for the price of one. Would you like to take advantage of that offer?
- 1.Pizza Margherita
- 2.Quick Tomato Pizzas
- 3.Four Cheese Pizza
- 4.Cheesy Vegetable Pizza
- 5.Tandoori Paneer Pizza
- 6.Thin Crust Hawaiian Pizza
- 7.Uttapam Pizza
- 8.Chocolate Pizza
- 9.Onion Pizza
- 10.veggie pizza
+    You can get two large pizzas for the price of one. Would you like to take advantage of that offer?
+
+     1.Pizza Margherita
+     2.Quick Tomato Pizzas
+     3.Four Cheese Pizza
+     4.Cheesy Vegetable Pizza
+     5.Tandoori Paneer Pizza
+     6.Thin Crust Hawaiian Pizza
+     7.Uttapam Pizza
+     8.Chocolate Pizza
+     9.Onion Pizza
+     10.veggie pizza
+
+    Which type of Pizza are you in the mood for today?
+               Please type the menu number
 
 You:- 1 and 7
-Bot:-  Pizza Margherita and Pizza Margherita, Wonderful choice! Can I have your delivery address, please?
+
+Bot:-  Pizza Margherita and Uttapam Pizza, Wonderful choice! Can I have your delivery address, please?
 You:- mfp, india
-Bot:-  Thank you! Your order will be delivered to 123 Main Street. May I have your phone number for any delivery updates?
+
+Bot:-  Thank you! Your order will be delivered to Mfp, India. May I have your phone number for any delivery updates?
 You:- 123456
-Bot:-  Thank you! Your order for one onion pizza and one veggie pizza will be delivered to 123 Main Street. Your total is $20. Will you be paying with cash or UPI?
-You:- UPI
+
+Bot:-  Thank you! Your order for one Pizza Margherita and one Uttapam Pizza will be delivered to Mfp, India.
+                        Your total is Rupee 350. Will you be paying with cash or UPI?
+You:- upi
+
 Bot:-  Great! I'll send UPI ID for payment.UPI:xxxx2154@xx 
-payment will done please type 'ok' 
+              If payment will done please type 'ok' .
 You:- ok
+
 Bot:-  Thank you for payment. Your order is confirmed, and you should receive it in about 30-40 minutes. Is there anything else I can assist you with?
 You:- that's all, thank you
-Bot:-  You're welcome! Enjoy your meal, and if you have any other questions in the future, feel free to reach out. Have a great day! 
 
-
- please type 'exit'
+Bot:-  You're welcome! Enjoy your meal, and if you have any other questions in the future, feel free to reach out. 
+             !!  Have a great day  !! 
+                Please type 'exit'
 You:- exit
