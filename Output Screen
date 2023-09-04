@@ -1,7 +1,8 @@
   #OUTPUT SCREEN
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #The provided code is a Python script for a simple chatbot. The chatbot displays a welcome message and interacts with the user based on their input. Here's what happens when you run the code:
 1. The welcome message is displayed:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -9,10 +10,10 @@
 Hi there! What type of cuisine are you in the mood for today?
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. The chatbot waits for user input, and you can type your response.
 3. Depending on your input, the chatbot will respond with predefined responses from the `qna1` dictionary.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You: i want pizza
 
@@ -61,7 +62,9 @@ You: that's all, thank you
 Bot: You're welcome! Enjoy your meal, and if you have any other questions in the future, feel free to reach out. 
              !!  Have a great day  !! 
                 Please type 'exit'
+You: exit
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # The conversation continues until the user types "exit," at which point the chatbot exits the loop and terminates.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
