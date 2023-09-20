@@ -1,4 +1,4 @@
-# Customer Service Chat Bot
+# Pizza Order Service Chat Bot
 
 This is a simple command-line-based Customer Service Chatbot that can help users place orders for pizza. It interacts with the user to determine their choice of pizza, delivery address, payment method, and confirmation of the order.
 
