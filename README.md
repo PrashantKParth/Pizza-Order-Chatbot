@@ -82,7 +82,3 @@ Bot: You're welcome! Enjoy your meal, and if you have any other questions in the
 ```
 
 The user can type 'exit' at any time to end the conversation.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
